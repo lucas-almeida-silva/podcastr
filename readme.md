@@ -30,6 +30,7 @@ The data used is consumed from a fake API, using the Json Server.
 
 - See the last 2 epidoses
 - See the list of episodes
+- See episode page
 - Listen to an episode
 - Player features (play, pause, next, previous, repeat and shuffle)
 
