@@ -6,6 +6,7 @@
 
 * [About](#information_source-about)
 * [Technologies](#computer-technologies)
+* [Requirements](#page_with_curl-requirements)
 * [Features](#rocket-features)
 * [Images](#camera-images)
 * [How to run](#seedling-how-to-run)
@@ -25,6 +26,12 @@ The data used is consumed from a fake API, using the Json Server.
 - [Next.js](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Json Server](https://github.com/typicode/json-server)
+
+# :page_with_curl: Requirements
+
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/) (optional)
+- [Git](https://git-scm.com/) (to clone the repository)
 
 # :rocket: Features
 
