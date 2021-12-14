@@ -22,9 +22,8 @@ The data used is consumed from a fake API, using the Json Server.
 
 # :computer: Technologies
 
-- [ReactJS](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Json Server](https://github.com/typicode/json-server)
 
 # :page_with_curl: Requirements
