@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "concurrently \"node server.js\"  \"next dev\"",
-    "build": "next build",
-    "start": "node server.js"
+    "start": "node server.js",
+    "server": "json-server server.json -p 3333"
   },
   "dependencies": {
     "axios": "^0.21.1",
