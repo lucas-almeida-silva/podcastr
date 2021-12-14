@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "concurrently \"node server.js\"  \"next dev\"",
     "build": "next build",
-    "start": "node server.js",
-    "server": "node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "axios": "^0.21.1",
