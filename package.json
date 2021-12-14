@@ -6,7 +6,7 @@
     "dev": "concurrently \"json-server server.json -p 3333\"  \"next dev\"",
     "build": "next build",
     "start": "node server.js",
-    "server": "node server.js"
+    "server": "json-server server.json -p 3333"
   },
   "dependencies": {
     "axios": "^0.21.1",
