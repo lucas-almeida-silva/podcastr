@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "concurrently \"node server.js\"  \"next dev\"",
+    "dev": "concurrently \"json-server server.json -p 3333\"  \"next dev\"",
     "build": "next build",
     "start": "node server.js",
     "server": "node server.js"
